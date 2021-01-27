@@ -1,0 +1,24 @@
+{
+    "Presets": {
+        "Character 1": {
+            "Name": "a", 
+            "Title": "b", 
+            "Bio": "WIP", 
+            "Portrait": "assets/axe.png"
+        }, 
+        "Character 2": {
+            "Name": "wwwwwwwwwwwwwa", 
+            "Title": "xxxxxxxx", 
+            "Bio": "WIP", 
+            "Portrait": "assets/void.png"
+        }, 
+        "Character 3": {
+            "Name": "sdasda", 
+            "Title": "12312344", 
+            "Bio": "WIP", 
+            "Portrait": "assets/ta.png"
+        }
+    }, 
+    "Player Made": {
+    }
+}

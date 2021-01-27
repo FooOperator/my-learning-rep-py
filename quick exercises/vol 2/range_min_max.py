@@ -1,0 +1,1 @@
+def get_sum(*args): return sum(range(min(args), max(args) + 1))
